@@ -1,0 +1,12 @@
+C:\Users\Alban\source\repos\checkNumber\checkNumber\bin\Debug\netcoreapp3.1\checkNumber.exe
+C:\Users\Alban\source\repos\checkNumber\checkNumber\bin\Debug\netcoreapp3.1\checkNumber.deps.json
+C:\Users\Alban\source\repos\checkNumber\checkNumber\bin\Debug\netcoreapp3.1\checkNumber.runtimeconfig.json
+C:\Users\Alban\source\repos\checkNumber\checkNumber\bin\Debug\netcoreapp3.1\checkNumber.runtimeconfig.dev.json
+C:\Users\Alban\source\repos\checkNumber\checkNumber\bin\Debug\netcoreapp3.1\checkNumber.dll
+C:\Users\Alban\source\repos\checkNumber\checkNumber\bin\Debug\netcoreapp3.1\checkNumber.pdb
+C:\Users\Alban\source\repos\checkNumber\checkNumber\obj\Debug\netcoreapp3.1\checkNumber.AssemblyInfoInputs.cache
+C:\Users\Alban\source\repos\checkNumber\checkNumber\obj\Debug\netcoreapp3.1\checkNumber.AssemblyInfo.cs
+C:\Users\Alban\source\repos\checkNumber\checkNumber\obj\Debug\netcoreapp3.1\checkNumber.csproj.CoreCompileInputs.cache
+C:\Users\Alban\source\repos\checkNumber\checkNumber\obj\Debug\netcoreapp3.1\checkNumber.dll
+C:\Users\Alban\source\repos\checkNumber\checkNumber\obj\Debug\netcoreapp3.1\checkNumber.pdb
+C:\Users\Alban\source\repos\checkNumber\checkNumber\obj\Debug\netcoreapp3.1\checkNumber.genruntimeconfig.cache
